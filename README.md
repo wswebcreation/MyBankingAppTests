@@ -6,6 +6,10 @@ on Nov 17th 08:00 AM, 2021 (UTC-07:00).
 
 You will find all needed test examples for Android and iOS, including the Apps.
 
+https://user-images.githubusercontent.com/11979740/142206087-f75c8b8b-287e-403d-b263-1084b2b2421f.mp4
+
+https://user-images.githubusercontent.com/11979740/142206113-f6c1794b-6347-458d-841a-9f9d174bf655.mp4
+
 ## Getting Started
 In order to run the tests you must complete the following prerequisite steps:
 * Install [Git](#install-git)
@@ -118,7 +122,7 @@ your terminal
 ```log
 > npm run test.android.eu
 
-> MyBankingAppTests@1.0.0 test.android.eu /Users/wimselles/Sauce/Git/sauce-apps/MyBankingAppTests
+> MyBankingAppTests@1.0.0 test.android.eu /Users/Sauce/Git/sauce-apps/MyBankingAppTests
 > REGION=eu wdio run wdio.android.conf.ts
 
 
@@ -138,7 +142,6 @@ Execution of 1 workers started at 2021-11-17T12:26:18.688Z
 [10.102.48.17:16023 Android 10 #0-0]
 [10.102.48.17:16023 Android 10 #0-0] 1 passing (28.8s)
 [10.102.48.17:16023 Android 10 #0-0]
-[10.102.48.17:16023 Android 10 #0-0] Check out job at https://app.eu-central-1.saucelabs.com/tests/5bee4f08-e7fd-43e4-9cf2-89724a65427a?auth=c519c92fb4daf816929e61cf089efc92
 
 
 Spec Files:      1 passed, 1 total (100% completed) in 00:01:55 
