@@ -84,6 +84,8 @@ The tests in this repo will show you how to use:
 Hopefully all code is documented well enough to guide you through the steps you need to take. The used app can be found
 [here](apps).
 
+> **NOTE:** If you are asked, for the `Scan a registered device`-flow, to confirm with a passcode, then you need to use `17539`.
+
 ### Upload apps to Sauce Labs
 You can upload the app, which can be found [here](apps) to Sauce Labs by following 
 [these](https://docs.saucelabs.com/mobile-apps/live-testing/live-mobile-app-testing/#uploading-an-app) manual
